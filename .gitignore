@@ -1,0 +1,8 @@
+node_modules/
+*.asar
+*.exe
+*.log
+*.ru-new
+shell-state.json
+backup*/
+.DS_Store
